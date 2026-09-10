@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "The-Magic-Skeleton.slnx",
+    "dotnet.defaultSolution": "The Magic Skeleton.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
